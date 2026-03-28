@@ -1,3 +1,5 @@
-# SegundoParcial-SegundoCuatri
+# PROGRAMACION ESTRUCTURADA
 
-//Diego Moises Mendoza Gonzalez
+## Diego Moises Mendoza Gonzalez
+## 261160008
+
